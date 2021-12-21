@@ -1,0 +1,10 @@
+Hi User!
+Welcome to Python Examples.
+Continue Exploring.
+Implement a script in Python that searches one or more named input files For lines containing a match to a regular expression pattern (given on the command line as well). Assume that input>
+
+Script accepts list optional parameters which are mutually exclusive: -c ( --color ) which highlight matching text [1] -m ( --machine ) which generate machine-readable output format: file_>
+
+Multiple matches on a single line are allowed, without overlapping. The script should be compatible with Python3, and in line with PEP8 coding guidelines. Add a few automated functional te>
+
+
